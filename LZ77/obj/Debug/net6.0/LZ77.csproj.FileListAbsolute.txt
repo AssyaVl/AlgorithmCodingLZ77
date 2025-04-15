@@ -1,0 +1,11 @@
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\bin\Debug\net6.0\LZ77.deps.json
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\bin\Debug\net6.0\LZ77.dll
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\bin\Debug\net6.0\LZ77.pdb
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\obj\Debug\net6.0\LZ77.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\obj\Debug\net6.0\LZ77.AssemblyInfoInputs.cache
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\obj\Debug\net6.0\LZ77.AssemblyInfo.cs
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\obj\Debug\net6.0\LZ77.csproj.CoreCompileInputs.cache
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\obj\Debug\net6.0\LZ77.dll
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\obj\Debug\net6.0\refint\LZ77.dll
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\obj\Debug\net6.0\LZ77.pdb
+C:\Users\nasta\Desktop\6 семестр\ТК\LZ77\LZ77\obj\Debug\net6.0\ref\LZ77.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleLZ77/1.0.0": {
+        "dependencies": {
+          "LZ77": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleLZ77.dll": {}
+        }
+      },
+      "LZ77/1.0.0": {
+        "runtime": {
+          "LZ77.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleLZ77/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LZ77/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
